@@ -1,2 +1,2 @@
-# polymer-on-node
+# polymer-3-app
 test
